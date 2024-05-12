@@ -2,16 +2,16 @@
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "http://800991cb-a722-4058-9a5f-2ba7348cacb1",
 	"@type": "sc:Manifest",
-	"label": "[Click to edit label]",
+	"label": "Bestandsbeschreibung und Handhabe: Glasdiapositive",
 	"metadata": [],
 	"description": [
 		{
-			"@value": "[Click to edit description]",
+			"@value": "Historische Glasdiapositive, ehemals für Kunst- und Kostümgeschichte in den Studiengängen der HTW Berlin genutzt. Teil eines größeren Bestands von ca. 1000 Diapositiven, u.a. von der Firma Dr. Franz Stoedtner bezogen. Digitalisiert und erhalten im Rahmen eines Projekts von 01.10.2007 bis 31.03.2013.",
 			"@language": "en"
 		}
 	],
 	"license": "https://creativecommons.org/licenses/by/3.0/",
-	"attribution": "[Click to edit attribution]",
+	"attribution": "HTW Berlin, FB 5 (Gestaltung und Kultur)",
 	"sequences": [
 		{
 			"@id": "http://d6d5a34b-4251-4d3c-bea8-e4d945c15486",
