@@ -41,7 +41,7 @@
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/3/context.json",
-									"@id": "http://localhost:8182/iiif/2/01.073 M.jpg",
+									"@id": "http://localhost:8182/iiif/3/01.073 M.jpg",
 									"profile": "level2"
 								},
 								"height": 1076,
